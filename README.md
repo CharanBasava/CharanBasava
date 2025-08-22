@@ -65,8 +65,8 @@ Focused on **innovation, problem-solving**, and leveraging **AI/ML & Generative 
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CharanBasava&show_icons=true&theme=radical" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanBasava&layout=compact&theme=radical" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CharanBasava&show_icons=true&theme=radical&hide_rank=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanBasava&layout=compact&theme=radical&hide=hack,Hack" height="150"/>
 <img src="https://streak-stats.demolab.com?user=CharanBasava&theme=radical" height="150"/>
 </p>
 
