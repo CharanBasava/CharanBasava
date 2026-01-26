@@ -1,85 +1,95 @@
 # Charan Basava
-**Full Stack Developer • Data Analyst**
+### Full Stack Developer | Data Analyst
+> **Engineering scalable web architectures and deploying data-driven solutions.**
 
-Building scalable web applications and data-driven solutions with a focus on clean architecture and performance.
-
-[LinkedIn](https://www.linkedin.com/in/charan-basava-961599284) | [Portfolio](https://charanbasava.vercel.app) | [Email](mailto:basavacharan85900@gmail.com)
-
----
-
-### Professional Summary
-Results-oriented developer combining full-stack engineering skills with data analytics capabilities. Experienced in building RESTful APIs, interactive frontends, and machine learning integrations. Passionate about solving real-world problems through efficient code and data-driven insights.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charan-basava-961599284)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://charanbasava.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:basavacharan85900@gmail.com)
 
 ---
 
-### 👨‍💻 About Me
-* **Core Competency:** Full Stack Development (React, Django, Node.js) and Data Analytics (SQL, Python).
-* **Focus:** Developing scalable architecture, optimizing database performance, and applying machine learning models.
-* **Status:** Actively seeking **Full-time** and **Internship** opportunities in Software Development and Data Analysis.
+## 🚀 Professional Profile
+I am a software engineer focused on the intersection of **Web Development** and **Data Intelligence**. Unlike standard developers, I don't just build interfaces; I build systems that process data, optimize workflows, and solve specific business problems.
+
+* **Engineering approach:** Clean Architecture, RESTful standards, and Database Normalization.
+* **Data capabilities:** Transforming raw data into predictive insights using ML pipelines.
+* **Current Status:** Actively interviewing for **Full-time** and **Internship** roles (Class of 2026).
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Technical Arsenal
 
-**Frontend**
-* React, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
-
-**Backend**
-* Python, Django, Django REST Framework (DRF), Node.js
-
-**Data & Analytics**
-* SQL (MySQL), Pandas, NumPy, Power BI, Machine Learning
-
-**Tools & Infrastructure**
-* Git, GitHub, Jira, Postman, VS Code, Vercel, Render
+| Domain | Core Technologies |
+| :--- | :--- |
+| **Frontend Architecture** | React.js, Tailwind CSS, JavaScript (ES6+), DOM Manipulation |
+| **Backend Systems** | Python, Django, Django REST Framework (DRF), Node.js |
+| **Data Engineering** | SQL (MySQL), Pandas, NumPy, Scikit-learn, Power BI |
+| **DevOps & Tools** | Git, GitHub Actions, Jira, Postman, Vercel, Render |
 
 ---
 
-### 🚀 Featured Projects
+## 📂 Engineering Case Studies
 
-**1. Crop Yield Prediction** | [View Live](https://crop-yield-prediction-mcww.onrender.com)
-* **Problem:** Agricultural planning is often hindered by unpredictable environmental variables.
-* **Solution:** Built an ML-based forecasting system using historical data to enable data-driven yield predictions.
-* **Tech:** Python, Django, Machine Learning, Chart.js
+### 1. Crop Yield Prediction System (Machine Learning + Web)
+> *Bridging the gap between raw environmental data and actionable agricultural insights.*
 
-**2. MoodTunes AI** | [View Repo](https://github.com/CharanBasava/moodtunes)
-* **Problem:** Standard music players lack context-awareness regarding user emotional states.
-* **Solution:** Developed an AI-powered engine integrating Hugging Face to generate playlists based on detected user mood.
-* **Tech:** React, Firebase, Hugging Face API
+* **The Challenge:** Farmers lack accessible tools to interpret complex historical weather data for yield planning.
+* **The Engineering:** Architected a **Django** backend that ingests user inputs and processes them through a trained **Machine Learning model**. Integrated a responsive frontend to visualize predictions instantly.
+* **Key Tech:** Python, Django, Scikit-learn, Chart.js
+* 🔗 [**View Live Deployment**](https://crop-yield-prediction-mcww.onrender.com)
 
-**3. Inventory Management System** | [View Repo](https://github.com/CharanBasava/Inventory-control)
-* **Problem:** Manual inventory tracking leads to stock discrepancies and reporting errors.
-* **Solution:** Engineered a role-based web system for real-time product tracking, stock updates, and automated reporting.
-* **Tech:** PHP, MySQL, JavaScript
+### 2. MoodTunes AI (API Integration & Algorithms)
+> *Moving beyond static playlists to emotion-aware content delivery.*
 
-**4. Live Drawing Game** | [View Live](https://wordguessing.onrender.com)
-* **Problem:** Multiplayer web games often suffer from latency and state synchronization issues.
-* **Solution:** Implemented a real-time WebSocket architecture for instant, lag-free communication between multiple clients.
-* **Tech:** Node.js, Socket.io, JavaScript
+* **The Challenge:** Standard music recommendation engines rely on listening history rather than current user sentiment.
+* **The Engineering:** Built a **React** application interfacing with the **Hugging Face API** to perform sentiment analysis on user text, mapping the output to specific audio descriptors for fetching tracks via external music APIs.
+* **Key Tech:** React.js, Firebase Auth, REST APIs, AI Integration
+* 🔗 [**View Repository**](https://github.com/CharanBasava/moodtunes)
 
-**5. Smart Browser Extension** | [View Repo](https://github.com/CharanBasava/smart_browser_extension)
-* **Problem:** Repetitive browser tasks reduce user efficiency and workflow speed.
-* **Solution:** Created a productivity tool that leverages Chrome APIs to customize browser behavior and streamline navigation.
-* **Tech:** JavaScript, Chrome Extension APIs
+### 3. Real-Time Drawing Game (WebSocket Architecture)
+> *Solving latency and state synchronization in multiplayer environments.*
+
+* **The Challenge:** maintaining game state consistency across multiple clients with zero perceived latency.
+* **The Engineering:** Implemented **Socket.io** for bi-directional, event-based communication. Optimized packet size for drawing coordinates to ensure fluid rendering across all connected clients.
+* **Key Tech:** Node.js, Express, Socket.io, HTML5 Canvas
+* 🔗 [**View Live Deployment**](https://wordguessing.onrender.com)
+
+### 4. Enterprise Inventory Management (RBAC System)
+> *Digitalizing supply chain tracking with strict access controls.*
+
+* **The Challenge:** Eliminating human error in manual stock keeping and unsecured data access.
+* **The Engineering:** Designed a relational database schema (MySQL) to handle complex product relationships. Implemented **Role-Based Access Control (RBAC)** to secure administrative functions vs. standard user views.
+* **Key Tech:** PHP, MySQL, Apache, Bootstrap
+* 🔗 [**View Repository**](https://github.com/CharanBasava/Inventory-control)
+
+### 5. Smart Browser Extension (DOM Injection)
+> *Enhancing user productivity through direct browser capability expansion.*
+
+* **The Challenge:** Reducing friction in repetitive web navigation tasks.
+* **The Engineering:** Utilized **Chrome Extension APIs** to inject isolated content scripts into active tabs, manipulating the DOM to add custom utility features without breaking site functionality.
+* **Key Tech:** JavaScript, Chrome Manifest V3, JSON
+* 🔗 [**View Repository**](https://github.com/CharanBasava/smart_browser_extension)
 
 ---
 
-### 📜 Certifications
+## 📜 Verified Certifications
 * **Django Application Development** – edX
-* **Web Development (HTML, CSS, JS)** – IBM
-* **Python Essentials** – Cisco
-* **MySQL** – Great Learning
+* **Python Essentials** – Cisco Network Academy
+* **Web Development Professional** – IBM
+* **Relational Databases (MySQL)** – Great Learning
 
 ---
 
-### 🤝 Open to Opportunities
-I am currently available for **Full-time** and **Internship** roles.
-* **Roles:** Full Stack Developer, Software Engineer, Data Analyst.
-* **Interests:** Web Application Architecture, API Development, Data Visualization, Open Source.
+## 📈 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharanBasava&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharanBasava&layout=compact&theme=radical&hide=jupyter%20notebook,html,css)
 
 ---
 
-### 📫 Contact
-* **Email:** basavacharan85900@gmail.com
-* **LinkedIn:** [linkedin.com/in/charan-basava](https://www.linkedin.com/in/charan-basava-961599284)
-* **Portfolio:** [charanbasava.vercel.app](https://charanbasava.vercel.app)
+## 🤝 Ready to Collaborate?
+I am looking for teams that value code quality and data-driven decisions.
+
+* **Hiring for:** Full Stack Developer, Software Engineer, Data Analyst
+* **Location:** Open to Remote & On-site
+
+[**basavacharan85900@gmail.com**](mailto:basavacharan85900@gmail.com) • [**LinkedIn**](https://www.linkedin.com/in/charan-basava-961599284)
