@@ -1,10 +1,9 @@
 # Charan Basava
 ### Full Stack Developer | Data Analyst
 > **Engineering scalable web architectures and deploying data-driven solutions.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charan-basava-961599284)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel)](https://charanbasava.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:basavacharan85900@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/charan-basava-961599284) •
+[Portfolio](https://charanbasava.vercel.app) •
+[Email](mailto:basavacharan85900@gmail.com)
 
 ---
 
