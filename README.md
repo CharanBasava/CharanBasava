@@ -1,89 +1,85 @@
-<!-- Profile README for Charan Basava -->
-<h1 align="center">Hi, I'm Charan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Charan Basava
+**Full Stack Developer • Data Analyst**
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&center=true&width=500&lines=Full+Stack+Developer;AI+%26+Generative+AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-</h3>
+Building scalable web applications and data-driven solutions with a focus on clean architecture and performance.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/charan-basava-961599284"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:basavacharan85900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://github.com/CharanBasava"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/charan-basava-961599284) | [Portfolio](https://charanbasava.vercel.app) | [Email](mailto:basavacharan85900@gmail.com)
 
 ---
 
-## 💫 About Me
-🎯 **Career Objective:**  
-Results-driven **Full Stack Developer** skilled in **ReactJS, Django, and MySQL**, passionate about **building scalable and intuitive web apps** with seamless API integration.  
-Focused on **innovation, problem-solving**, and leveraging **AI/ML & Generative AI** for impactful solutions.
+### Professional Summary
+Results-oriented developer combining full-stack engineering skills with data analytics capabilities. Experienced in building RESTful APIs, interactive frontends, and machine learning integrations. Passionate about solving real-world problems through efficient code and data-driven insights.
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> 
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> 
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />  
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" /> 
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" /> 
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-</p>
+### 👨‍💻 About Me
+* **Core Competency:** Full Stack Development (React, Django, Node.js) and Data Analytics (SQL, Python).
+* **Focus:** Developing scalable architecture, optimizing database performance, and applying machine learning models.
+* **Status:** Actively seeking **Full-time** and **Internship** opportunities in Software Development and Data Analysis.
 
 ---
 
-## 🚀 Featured Projects
-| Project | Description | Tech Stack |
-|---------|------------|------------|
-| 🌾 [Crop-Yield-Prediction](https://crop-yield-prediction-mcww.onrender.com/) | Predictive analytics platform using **ML + Django** with real-time forecasts. | Django, XGBoost, Chart.js |
-| 🎵 [MoodTunes](https://github.com/CharanBasava/moodtunes) | AI-based music recommender using **Hugging Face & Spotify API**. | React, Tailwind, Firebase |
-| 🧠 [Smart Browser Extension](https://github.com/CharanBasava/smart_browser_extension) | A productivity extension for smarter browsing. | JavaScript, Chrome API |
-| 📦 [Inventory Control](https://github.com/CharanBasava/Inventory-control) | Inventory management system with role-based access. | PHP, MySQL |
+### 🛠 Tech Stack
+
+**Frontend**
+* React, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
+
+**Backend**
+* Python, Django, Django REST Framework (DRF), Node.js
+
+**Data & Analytics**
+* SQL (MySQL), Pandas, NumPy, Power BI, Machine Learning
+
+**Tools & Infrastructure**
+* Git, GitHub, Jira, Postman, VS Code, Vercel, Render
 
 ---
 
-<details>
-<summary>🏅 Certifications (click to expand)</summary>
+### 🚀 Featured Projects
 
-✔ **Prompt Engineering** – EDX (July 2024)  
-✔ **Django Application Development** – EDX (June 2024)  
-✔ **Web Development with HTML, CSS & JavaScript** – IBM via EDX (June 2024)  
-✔ **MySQL** – Great Learning (June 2024)  
-✔ **Python Essentials** – Cisco (Jan 2024)  
-✔ **AI Foundation** – Hexart (Jan 2024)  
+**1. Crop Yield Prediction** | [View Live](https://crop-yield-prediction-mcww.onrender.com)
+* **Problem:** Agricultural planning is often hindered by unpredictable environmental variables.
+* **Solution:** Built an ML-based forecasting system using historical data to enable data-driven yield predictions.
+* **Tech:** Python, Django, Machine Learning, Chart.js
 
-</details>
+**2. MoodTunes AI** | [View Repo](https://github.com/CharanBasava/moodtunes)
+* **Problem:** Standard music players lack context-awareness regarding user emotional states.
+* **Solution:** Developed an AI-powered engine integrating Hugging Face to generate playlists based on detected user mood.
+* **Tech:** React, Firebase, Hugging Face API
 
----
+**3. Inventory Management System** | [View Repo](https://github.com/CharanBasava/Inventory-control)
+* **Problem:** Manual inventory tracking leads to stock discrepancies and reporting errors.
+* **Solution:** Engineered a role-based web system for real-time product tracking, stock updates, and automated reporting.
+* **Tech:** PHP, MySQL, JavaScript
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CharanBasava&show_icons=true&theme=radical&hide_rank=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanBasava&layout=compact&theme=radical&hide=hack,Hack" height="150"/>
-<img src="https://streak-stats.demolab.com?user=CharanBasava&theme=radical" height="150"/>
-</p>
+**4. Live Drawing Game** | [View Live](https://wordguessing.onrender.com)
+* **Problem:** Multiplayer web games often suffer from latency and state synchronization issues.
+* **Solution:** Implemented a real-time WebSocket architecture for instant, lag-free communication between multiple clients.
+* **Tech:** Node.js, Socket.io, JavaScript
 
-![Profile Views](https://komarev.com/ghpvc/?username=CharanBasava&color=blue)
-
----
-
-## 🤝 Open to Collaborate On
-- Full Stack Development  
-- AI & Generative AI Projects  
-- Open Source Contributions  
+**5. Smart Browser Extension** | [View Repo](https://github.com/CharanBasava/smart_browser_extension)
+* **Problem:** Repetitive browser tasks reduce user efficiency and workflow speed.
+* **Solution:** Created a productivity tool that leverages Chrome APIs to customize browser behavior and streamline navigation.
+* **Tech:** JavaScript, Chrome Extension APIs
 
 ---
 
-### 🔗 Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/charan-basava-961599284"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:basavacharan85900@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://github.com/CharanBasava"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+### 📜 Certifications
+* **Django Application Development** – edX
+* **Web Development (HTML, CSS, JS)** – IBM
+* **Python Essentials** – Cisco
+* **MySQL** – Great Learning
+
+---
+
+### 🤝 Open to Opportunities
+I am currently available for **Full-time** and **Internship** roles.
+* **Roles:** Full Stack Developer, Software Engineer, Data Analyst.
+* **Interests:** Web Application Architecture, API Development, Data Visualization, Open Source.
+
+---
+
+### 📫 Contact
+* **Email:** basavacharan85900@gmail.com
+* **LinkedIn:** [linkedin.com/in/charan-basava](https://www.linkedin.com/in/charan-basava-961599284)
+* **Portfolio:** [charanbasava.vercel.app](https://charanbasava.vercel.app)
