@@ -1,6 +1,6 @@
 # Charan Basava
-### Software Engineer | Full Stack & Data Systems
-**CS Class of 2026 • Building scalable architectures and intelligent data pipelines.**
+### Full Stack Developer | Data Analyst
+**Engineering scalable web architectures and deploying data-driven solutions.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charan-basava-961599284)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=flat&logo=vercel&logoColor=white)](https://charanbasava.vercel.app)
