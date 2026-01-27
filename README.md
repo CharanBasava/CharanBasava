@@ -27,7 +27,7 @@
 I focus on building **robust, type-safe, and scalable systems**. My approach combines clean architecture principles with data-driven decision-making. I am passionate about optimizing API latency, ensuring database integrity, and bridging the gap between application logic and machine learning models.
 
 * **Core Focus:** Full Stack Engineering (React/Django), Data Analytics, and System Design.
-* **Goal:** Seeking **Summer 2025 Internships** & **Full-time SDE** roles.
+* **Goal:** Seeking **Internships** & **Full-time SDE** roles.
 
 ---
 
