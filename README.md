@@ -5,96 +5,103 @@
 </h3>
 
 <p align="center">
-  <b>Engineering scalable web architectures and deploying data-driven solutions.</b>
+  <em>Building type-safe, scalable web systems and bridging the gap between application logic and data analytics.</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/charan-basava-961599284">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://charansportfolios.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=flat&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:basavacharan85900@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<br/>
+
+<h3 align="center">💡 About Me</h3>
+
+<p align="center">
+  I focus on <b>system robustness</b> and <b>API optimization</b>. My approach combines clean architecture principles with data-driven decision-making to reduce latency and ensure integrity. <br/>
+  <b>Current Status:</b> Actively seeking <b>Internships</b> & <b>Full-time SDE</b> roles.
 </p>
 
 <hr/>
 
+<h3 align="center">⚡ Technical Proficiency</h3>
 
-## 💡 Engineering Philosophy
-I focus on building **robust, type-safe, and scalable systems**. My approach combines clean architecture principles with data-driven decision-making. I am passionate about optimizing API latency, ensuring database integrity, and bridging the gap between application logic and machine learning models.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript_(ES6+)-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+</p>
 
-* **Core Focus:** Full Stack Engineering (React/Django), Data Analytics, and System Design.
-* **Goal:** Seeking **Internships** & **Full-time SDE** roles.
+<hr/>
 
----
+## 🏗️ Selected Projects
 
-## ⚡ Technical Proficiency
-
-* **Languages:** Python (Advanced), JavaScript (ES6+), SQL, HTML5/CSS3
-* **Frontend Ecosystem:** React.js, Tailwind CSS, DOM Manipulation, Responsive Design
-* **Backend & API:** Django, Django REST Framework (DRF), Node.js, RESTful Architecture
-* **Data Engineering:** Pandas, NumPy, Scikit-learn, Power BI, Data Visualization
-* **Infrastructure & Tools:** Git/GitHub, CI/CD Concepts, Linux, Postman, Vercel/Render, Jira
-
----
-
-## 🏗️ Selected Engineering Projects
-
-### 1. Crop Yield Prediction System (ML Integrated Web App)
-> *Solving agricultural uncertainty through predictive modeling.*
-* **The Engineering Challenge:** Integrating a heavy Machine Learning model into a web environment without compromising user experience or request latency.
-* **Architecture:** Deployed a **Django** backend serving a trained **Scikit-learn** model. Implemented efficient data preprocessing pipelines to handle historical environmental inputs in real-time.
-* **Tech:** Python, Django, Machine Learning, Chart.js, Render
+### 1. Crop Yield Prediction System (ML & Web)
+*Predicting agricultural output using historical environmental data.*
+* **Challenge:** Integrating a heavy ML model into a web environment without compromising request latency.
+* **Solution:** Deployed a **Django** backend serving a **Scikit-learn** model with optimized data preprocessing pipelines.
+* **Stack:** Python, Django, Scikit-learn, Chart.js, Render
 * 🔗 [**Live Deployment**](https://crop-yield-prediction-mcww.onrender.com)
 
-### 2. Real-Time Drawing Game (Event-Driven Architecture)
-> *Optimizing for low-latency and high-concurrency.*
-* **The Engineering Challenge:** Maintaining game state synchronization across multiple clients with sub-100ms latency.
-* **Architecture:** Utilized **Socket.io (WebSockets)** for bi-directional communication. Implemented event broadcasting for coordinate data to ensure instant rendering across all connected viewports.
-* **Tech:** Node.js, Express, Socket.io, HTML5 Canvas
+### 2. Real-Time Drawing Game (Event-Driven)
+*Low-latency multiplayer gaming environment.*
+* **Challenge:** Synchronizing game state across multiple clients with sub-100ms latency.
+* **Solution:** Implemented **Socket.io** for bi-directional event broadcasting to ensure instant rendering across viewports.
+* **Stack:** Node.js, Express, Socket.io, HTML5 Canvas
 * 🔗 [**Live Deployment**](https://wordguessing.onrender.com)
 
-### 3. MoodTunes AI (API Aggregation Engine)
-> *Enhancing user experience with Context-Aware computing.*
-* **The Engineering Challenge:** Abstracting the complexity of Sentiment Analysis from the end-user.
-* **Architecture:** Built a **React** frontend that interfaces with the **Hugging Face API** for Natural Language Processing (NLP). Designed a logic layer to map sentiment scores to external music streaming APIs dynamically.
-* **Tech:** React.js, Firebase, REST APIs, AI/NLP
+### 3. MoodTunes AI (API Aggregation)
+*Context-aware music recommendation engine.*
+* **Challenge:** Abstracting the complexity of NLP sentiment analysis from the end-user.
+* **Solution:** Built a **React** logic layer that maps **Hugging Face** sentiment scores to music streaming APIs dynamically.
+* **Stack:** React.js, Firebase, REST APIs, AI/NLP
 * 🔗 [**View Repository**](https://github.com/CharanBasava/moodtunes)
 
-### 4. Inventory Management System (RBAC & Schema Design)
-> *Enterprise-grade resource tracking.*
-* **The Engineering Challenge:** Ensuring data integrity and security in a multi-user environment.
-* **Architecture:** Designed a normalized **MySQL** database schema to reduce redundancy. Implemented **Role-Based Access Control (RBAC)** to enforce strict permission boundaries between Admins and standard users.
-* **Tech:** PHP, MySQL, Apache, JavaScript
+### 4. Inventory Management System (RBAC)
+*Enterprise-grade resource tracking with security protocols.*
+* **Challenge:** Ensuring data integrity in a multi-user environment.
+* **Solution:** Designed a normalized **MySQL** schema with strictly enforced **Role-Based Access Control (RBAC)**.
+* **Stack:** PHP, MySQL, Apache
 * 🔗 [**View Repository**](https://github.com/CharanBasava/Inventory-control)
 
-### 5. Smart Browser Extension (DOM Manipulation)
-> *Productivity tooling via browser internals.*
-* **The Engineering Challenge:** Modifying page behavior safely within the isolated context of browser extensions.
-* **Architecture:** Leveraged **Chrome APIs** (Manifest V3) to inject content scripts that interact with the DOM, optimizing user workflows by automating repetitive UI actions.
-* **Tech:** JavaScript, Chrome Extension API, JSON
-* 🔗 [**View Repository**](https://github.com/CharanBasava/smart_browser_extension)
+<br/>
 
----
+<h3 align="center">📜 Certifications</h3>
+<p align="center">
+  Django App Development (edX) • Python Essentials (Cisco) • Web Dev Professional (IBM)
+</p>
 
-## 📜 Certifications & Continuous Learning
-* **Django Application Development** – edX
-* **Python Essentials** – Cisco Network Academy
-* **Web Development Professional** – IBM
-* **Relational Databases (MySQL)** – Great Learning
+<hr/>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CharanBasava&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanBasava&layout=compact&theme=radical&hide=jupyter%20notebook,html,css" height="150" alt="languages graph" />
+</div>
 
-## 📊 GitHub Contributions
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharanBasava&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharanBasava&layout=compact&theme=radical&hide=jupyter%20notebook,html,css)
+<br/>
 
----
-
-## 🤝 Let's Build Together
-I am actively preparing for technical interviews and available for roles requiring strong **Problem Solving** and **Full Stack** capabilities.
-
-[**basavacharan85900@gmail.com**](mailto:basavacharan85900@gmail.com) • [**LinkedIn Profile**](https://www.linkedin.com/in/charan-basava-961599284)
+<p align="center">
+  <b>Let's Build Together.</b><br/>
+  I am ready for technical interviews and immediate joining.<br/>
+  <a href="mailto:basavacharan85900@gmail.com">basavacharan85900@gmail.com</a>
+</p>
