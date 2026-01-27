@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/charan-basava-961599284">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[https://charanbasava.vercel.app](https://charansportfolios.netlify.app/)">
+  <a href="https://charansportfolios.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:basavacharan85900@gmail.com">
