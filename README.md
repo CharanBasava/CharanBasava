@@ -22,7 +22,7 @@ Building backend systems, REST APIs, and AI-powered web applications using Pytho
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 Computer Science undergraduate focused on **backend development, API systems, and AI-powered applications**.
 
@@ -40,7 +40,7 @@ Currently seeking **entry-level Software Engineering or Backend Developer roles*
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Backend
 <p>
@@ -82,7 +82,7 @@ Currently seeking **entry-level Software Engineering or Backend Developer roles*
 
 ---
 
-# 🚀 Projects
+# Projects
 
 ## Crop Yield Prediction Platform
 Machine learning system that predicts agricultural crop yield using historical environmental data.
@@ -141,7 +141,7 @@ AI system that analyzes resume content and identifies missing skills.
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CharanBasava&show_icons=true&theme=tokyonight&hide_title=true&count_private=true"/>
@@ -153,7 +153,7 @@ AI system that analyzes resume content and identifies missing skills.
 
 ---
 
-# 📫 Contact
+# Contact
 
 📧 basavacharan85900@gmail.com  
 🔗 linkedin.com/in/charan-basava-961599284  
