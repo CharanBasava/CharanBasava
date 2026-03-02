@@ -140,13 +140,7 @@ AI system that analyzes resume content and identifies missing skills.
 **Tech:** Sentence-BERT, XGBoost, RAG, Llama 3.1
 
 ---
-# GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharanBasava&show_icons=true&theme=tokyonight&hide_border=true" alt="Charan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharanBasava&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 
 # Contact
