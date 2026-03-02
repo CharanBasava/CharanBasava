@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey there! I'm <span style="color:#ff80bf;">Charan Basava</span> ✨</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🤖 AI/ML Developer | 🌐 Backend & API Systems</h3>
+<h3 align="center"> Full-Stack Developer |  AI/ML Developer |  Backend & API Systems</h3>
 
 <br />
 
